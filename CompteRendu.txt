@@ -1,0 +1,30 @@
+TOOLS:
+	SDL/SFML
+	XNA
+	Löve
+	PyGame
+	Unity3d
+	Flashpunk
+
+
+CHOIX:
+	Flashpunk -> http://flashgamedojo.com/go/
+	FlashDevelop-4.0.0-Beta3
+	flashplayer_10_sa_debug
+	Draknek-FlashPunk-adbf544
+
+
+GAME:
+	Pseudo 'Tower defense' game
+	Moutons électriques, centrales, réseau de cables & fermes
+	Répartition 1 : sprites, centrales, switches, réseau
+
+	"C'était peut être pas un très bon nom de classe ça, 'switch'."
+
+	Reflexion sur les boucles du réseau & croisements.
+	Suggestion des tapis roulants & beliers
+
+	Pixel Art with Paint.NET
+	Sound with sfxr & musagi
+
+ASSESMENT:
